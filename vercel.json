@@ -2,6 +2,7 @@
   "rewrites": [
     { "source": "/(github\\.com)/(.*)", "destination": "https://$1/$2" },
     { "source": "/(suo\\.yt)/(.*)", "destination": "https://$1/$2" },
+    { "source": "/(v9\\.gg)/(.*)", "destination": "https://$1/$2" },
     { "source": "/(www\\.nameless13\\.com)/(.*)", "destination": "https://$1/$2" },
     { "source": "/(sub\\.xeton\\.dev)/(.*)", "destination": "https://$1/$2" },
     { "source": "/(3ii\\.cc)/(.*)", "destination": "https://$1/$2" },

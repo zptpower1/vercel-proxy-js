@@ -3,7 +3,7 @@
     { "source": "/(github\\.com)/(.*)", "destination": "https://$1/$2" },
     { "source": "/(suo\\.yt)/(.*)", "destination": "https://$1/$2" },
     { "source": "/(www\\.nameless13\\.com)/(.*)", "destination": "https://$1/$2" },
-    { "source": "/(api.store.usuc.cc)/(.*)", "destination": "https://$1/$2" },
+    { "source": "/(api-store.usuc.cc)/(.*)", "destination": "https://api-store.usuc.cc/$2" },
     { "source": "/(sub\\.xeton\\.dev)/(.*)", "destination": "https://$1/$2" },
     { "source": "/(3ii\\.cc)/(.*)", "destination": "https://$1/$2" },
     { "source": "/raw\\.githubusercontent\\.com/(.*)", "destination": "https://$1/$2" }
